@@ -6,7 +6,7 @@ Knack To Excel is a Visual Basic script written to import data directly from Kna
 
 1. Create a macro-enabled Excel workbook
 2. Open the Visual Basic editor (alt + f11)
-3. Edit the "ThisWorkbook" Excel object
+3. Create a new module Excel object
 4. Specify username and password for Knack login
 5. Update file URL by choosing "Export" on Knack's object export webpage
 
